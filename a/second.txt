@@ -1,0 +1,1 @@
+the result is Hello the text from the txt file is abc
